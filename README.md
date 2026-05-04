@@ -3,7 +3,7 @@ Repository of files and code for my MBiol 2026 Dissertation
 
 Please see "code" folder for code or find code on Jupyter: /home/jovyan/shared-team/2025-masters-project/people/eleanor/CLEAN_CODE/for_github
 
-Find all graphs in "plots" folder and find all csv tables from stats in "tables"
+Please find all outputs including plots, stats, and tables in graphs in "outputs" folder
 
 --------------------------------------------------------------------
 

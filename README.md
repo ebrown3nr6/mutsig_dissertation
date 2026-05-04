@@ -1,11 +1,17 @@
 # mutsig_dissertation
 Repository of files and code for my MBiol 2026 Dissertation
 
+Please see "code" folder for code or find code on Jupyter: /home/jovyan/shared-team/2025-masters-project/people/eleanor/CLEAN_CODE/for_github
+
+Find all graphs in "plots" folder and find all csv tables from stats in "tables"
+
+--------------------------------------------------------------------
+
 All Bash commands are written in dissertation methods.
 
 Please see below for input/output folders and files
 
-To find code on Jupyter: /home/jovyan/shared-team/2025-masters-project/people/eleanor/CLEAN_CODE/for_github
+find code on Jupyter: /home/jovyan/shared-team/2025-masters-project/people/eleanor/CLEAN_CODE/for_github
 
 Base folder: /home/jovyan/shared-team/2025-masters-project/people/eleanor/original_and_processed_files
 

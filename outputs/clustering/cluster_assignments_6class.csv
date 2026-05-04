@@ -1,0 +1,15 @@
+species,cluster,silhouette,gram
+bpertussis,1,0.8254,Gram-negative
+mtuberculosis,1,0.7858,Gram-positive
+styphimurium,1,0.7583,Gram-negative
+paeruginosa,1,0.6969,Gram-negative
+hinfluenzae,2,0.8037,Gram-negative
+kpneumoniae,2,0.111,Gram-negative
+ecoli,2,-0.1643,Gram-negative
+cjejuni,2,0.7332,Gram-negative
+nmeningitidis,2,0.7439,Gram-negative
+lmonocytogenesA,2,0.5943,Gram-positive
+saureus,2,0.8023,Gram-positive
+sagalactiae,2,0.6875,Gram-positive
+sepidermidis,2,0.7935,Gram-positive
+spneumoniae,2,0.8326,Gram-positive

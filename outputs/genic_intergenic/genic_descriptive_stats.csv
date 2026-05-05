@@ -1,0 +1,4 @@
+metric,mean,median,sd
+observed_genic_prop,0.917531,0.909812,0.039512
+expected_genic_prop,0.863617,0.867729,0.034134
+difference,0.053914,0.045503,0.047352
